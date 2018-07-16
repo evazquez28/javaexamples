@@ -37,6 +37,7 @@ Each number and space in the array consists with its index
 |0||1||2||3||4||5||6||7||8||9|
 */
     
+		
     int[] phoneNumber;
     phoneNumber = new int[10]; //A phone number has 10 digits, BUT every arrays first index is 0 so we have 9 total indexes
   	phoneNumber[0] = 7;
@@ -57,7 +58,13 @@ Each number and space in the array consists with its index
 
     //EXERCISE: Create a String array called birbs with 5 indexes. In the first index put "cockatiels"
     
-    
+	String[5] birbs;
+	index [0]= "cocktels";
+	index [1];
+	index [2];
+	index [3];
+	index [4];
+	
 
 	
 
